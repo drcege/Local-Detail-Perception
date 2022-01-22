@@ -1,0 +1,26 @@
+.ipynb_checkpoints/
+
+
+# Batches
+*.npz
+*.list
+
+
+# data
+data/
+testData/
+*.png
+
+
+# outputs
+outputs/
+log/
+logs/
+snapshot/
+
+
+# temporary files
+*.txt~
+*.pyc
+.DS_Store
+.gitignore~
