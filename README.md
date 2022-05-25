@@ -23,7 +23,7 @@ conda activate LDP
 git clone https://github.com/drcege/Local-Detail-Perception && cd Local-Detail-Perception
 ```
 
-- Download datasets and place them under the `datasets` directory following its instructions.
+- Download datasets from [releases](https://github.com/drcege/Local-Detail-Perception/releases) and place them under the `datasets` directory following its instructions.
 
 - Generate ImageNet pre-trained "ResNet-101" model in TensorFlow version for initial training and place it under the `resnet_pretrained_model` directory. This can be obtained following the instructions in [chenxi116/TF-resnet](https://github.com/chenxi116/TF-resnet#example-usage). For convenience, the converted model can be downloaded from [here](https://drive.google.com/drive/folders/11sI3IARgAKTf4rut1isQgTOdGKFeyZ1c?usp=sharing).
 
